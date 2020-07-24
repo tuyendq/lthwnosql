@@ -1,2 +1,6 @@
-# lthwnosql
-LTHW - NoSQL
+# LTHW - NoSQL
+
+- CAP Theorem
+Consistency
+Availability
+Pratition Tolerance
